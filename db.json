@@ -2,7 +2,7 @@
     "users" : [
         {
             "id": 1,
-            "nama": "afif",
+            "nama": "Test",
             "alamat": "Pekalongan",
             "umur": 24,
             "nohp": "0857412312312"
