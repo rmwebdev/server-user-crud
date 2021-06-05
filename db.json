@@ -122,21 +122,8 @@
             "status_kswp":"Tidak valid",
             "status_lkpm":"Tidak valid",
             "no_izin": "KLBI-1312-12332",
-            "lokasi_usaha": [
-                {
-                "alamat": "Jl. Rawasari Barat No. 50",
-                "kelurahan": "Cempaka Putih Timur",
-                "kecamatan": "Cempaka Putih",
-                "city": "Jakarta Pusat DKI Jakarta"
-                }
-            ],
-            "data_usaha": [
-                { "no_kode_proyek" : "1234123412341234",
-                    "luas_lahan": "500M2",
-                    "jumlah_tk": "10",
-                    "rencana_investasi": 160000000
-                }
-            ],
+            "lokasi_usaha": "Jl. Rawasari Barat No. 50 Kelurahan Cempaka Putih Timur Kecamatan Cempaka Putih Kota Jakarta Pusat DKI Jakarta",
+            "data_usaha":"Kode Proyek 1234123412341234, Luas lahan 500M2",
             "jenis_produksi": "",
             "kapasitas_perthn": "5000 Ton",
             "tingkat_resiko": "",
@@ -150,28 +137,14 @@
             "status_kswp":"Tidak valid",
             "status_lkpm":"Tidak valid",
             "no_izin": "KLBI-1312-12332",
-            "lokasi_usaha": [
-                {
-                "alamat": "Jl. Rawasari Barat No. 50",
-                "kelurahan": "Cempaka Putih Timur",
-                "kecamatan": "Cempaka Putih",
-                "city": "Jakarta Pusat DKI Jakarta"
-                }
-            ],
-            "data_usaha": [
-                { "no_kode_proyek" : "1234123412341234",
-                    "luas_lahan": "500M2",
-                    "jumlah_tk": "100",
-                    "rencana_investasi": 170000000
-                }
-            ],
+            "lokasi_usaha": "Jl. Rawasari Barat No. 50 Kelurahan Cempaka Putih Timur Kecamatan Cempaka Putih Kota Jakarta Pusat DKI Jakarta",
+            "data_usaha":"Kode Proyek 1234123412341234, Luas lahan 500M2",
             "jenis_produksi": "",
-            "kapasitas_perthn": "15000 Ton",
+            "kapasitas_perthn": "5000 Ton",
             "tingkat_resiko": "",
             "skala_usaha": "",
-            "keterangan": ""
+            "keterangan": "test data"
           }
         ]
 }
    
-
