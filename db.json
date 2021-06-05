@@ -103,5 +103,70 @@
             "day": "May 7th at 10:30am",
             "reminder": false
           }
-    ]
+    ],
+    "infoAccount" : [
+    {
+      "nama_pelaku_usaha": "PT Maju Jaya",
+      "npwp":"12345",
+      "nib": "9120345612345",
+      "status_kswp":"Tidak valid",
+      "status_lkpm":"Tidak valid",
+      "kbli":[
+          { "id": 1,
+            "no_kbli": "12345",
+            "tgl_terbit":"23-10-2021",
+            "status_kswp":"Tidak valid",
+            "status_lkpm":"Tidak valid",
+            "no_izin": "KLBI-1312-12332",
+            "lokasi_usaha": [
+                {
+                "alamat": "Jl. Rawasari Barat No. 50",
+                "kelurahan": "Cempaka Putih Timur",
+                "kecamatan": "Cempaka Putih",
+                "city": "Jakarta Pusat DKI Jakarta"
+                }
+            ],
+            "data_usaha": [
+                { "no_kode_proyek" : "1234123412341234",
+                    "luas_lahan": "500M2",
+                    "jumlah_tk": "10",
+                    "rencana_investasi": 160000000
+                }
+            ],
+            "jenis_produksi": "",
+            "kapasitas_perthn": "5000 Ton",
+            "tingkat_resiko": "",
+            "skala_usaha": "",
+            "keterangan": ""
+          },
+          { "id": 2,
+            "no_kbli": "12345",
+            "tgl_terbit":"23-10-2021",
+            "status_kswp":"Tidak valid",
+            "status_lkpm":"Tidak valid",
+            "no_izin": "KLBI-1312-12332",
+            "lokasi_usaha": [
+                {
+                "alamat": "Jl. Rawasari Barat No. 50",
+                "kelurahan": "Cempaka Putih Timur",
+                "kecamatan": "Cempaka Putih",
+                "city": "Jakarta Pusat DKI Jakarta"
+                }
+            ],
+            "data_usaha": [
+                { "no_kode_proyek" : "1234123412341234",
+                    "luas_lahan": "500M2",
+                    "jumlah_tk": "100",
+                    "rencana_investasi": 170000000
+                }
+            ],
+            "jenis_produksi": "",
+            "kapasitas_perthn": "15000 Ton",
+            "tingkat_resiko": "",
+            "skala_usaha": "",
+            "keterangan": ""
+          }
+        ]
+    }
+   ]
 }
